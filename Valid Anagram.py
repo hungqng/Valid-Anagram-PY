@@ -17,3 +17,8 @@ class Solution:
             if countS[c] != countT.get(c, 0):
                 return False
         return True
+
+        # Solution 2
+        # return Counter(s) == Counter(t)
+
+        
