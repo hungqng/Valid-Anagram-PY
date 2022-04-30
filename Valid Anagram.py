@@ -21,4 +21,5 @@ class Solution:
         # Solution 2
         # return Counter(s) == Counter(t)
 
-        
+        # Solution 3
+        # return sorted(s) == sorted(t)
