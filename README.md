@@ -2,6 +2,6 @@
 Leetcode practice #242
 
 ## Built With
-- Leetcode
+- LeetCode
 - Python
 - VS Code
